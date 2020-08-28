@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[https://linkedin/aishwaryakaranth/in/] LinkedIn | 
+[LinkedIn](https://linkedin/aishwaryakaranth/in/) | [GitHub](https://github.com/AishwaryaKaranth) | [Twitter](https://twitter.com/karanth934)
 
 I am Aishwarya Karanth, final year undergrad student majoring in Electronics and Communication Engineering at RNS Institute of Technology.
 
