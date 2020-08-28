@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
+[https://linkedin/aishwaryakaranth/in/] LinkedIn | 
 
-You can use the [editor on GitHub](https://github.com/AishwaryaKaranth/AishwaryaKaranth.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Aishwarya Karanth, final year undergrad student majoring in Electronics and Communication Engineering at RNS Institute of Technology.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
