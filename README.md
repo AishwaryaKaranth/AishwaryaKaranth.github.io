@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
-[LinkedIn](https://linkedin/aishwaryakaranth/in/) | [GitHub](https://github.com/AishwaryaKaranth) | [Twitter](https://twitter.com/karanth934)
 
-I am Aishwarya Karanth, final year undergrad student majoring in Electronics and Communication Engineering at RNS Institute of Technology.
+[LinkedIn](https://linkedin/aishwaryakaranth/in/) | [GitHub](https://github.com/AishwaryaKaranth) | [Twitter](https://twitter.com/karanth934) | [Resume](AishwaryaKaranthResume.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Aishwarya Karanth, final year undergrad student majoring in Electronics and Communication Engineering at RNS Institute of Technology. I am a part of web development team at [GirlScript Bangalore Chapter](blr.vercel.app). I am also responsible for developing and maintaining [IEEE RNSIT Student Branch Website](https://ieeernsit.github.io).
+
 
 ### Markdown
 
