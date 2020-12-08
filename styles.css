@@ -2,7 +2,7 @@
 
 :root {
     --primary-color: #082c4e;
-    --yellow:yellow;
+    --yellow:#ffcc33;
     --dark-gray: #6B7280;
 }
 
@@ -82,7 +82,7 @@ hr{
 }
 .navigation {
     background-color: var(--primary-color);
-    color: white;
+    color:var(--yellow);
     padding: 1rem;
     border-bottom-left-radius: 1rem;
 }
@@ -103,7 +103,7 @@ hr{
 }
 
 .navigation .link {
-    color: white;
+    color:var(--yellow);
 }
 
 .navigation .link-active {
@@ -116,7 +116,7 @@ header{
 }
 
 .hero {
-    padding: 2rem;
+    padding: 1rem;
     padding-top: 2rem;
    
 }
@@ -160,7 +160,19 @@ background: linear-gradient(to left, #ffcc33, #ffb347); /* W3C, IE 10+/ Edge, Fi
     background-color: var(--off-white);
 }
 
-
+.blob-blogs{
+    color:var(--primary-color);
+}
+.blob-blogs {
+    color: var(--primary-color);
+    /* background: border-box; */
+    /* border-color: #ffcc33; */
+    background-color: #ffcc33;
+    padding: 1rem;
+    /* background: round; */
+    /* border-bottom-left-radius: 0.5rem; */
+    border-radius: 0.5rem;
+}
 
 .footer {
     background-color: var(--primary-color);
