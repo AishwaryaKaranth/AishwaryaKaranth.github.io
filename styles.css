@@ -8,7 +8,8 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    margin: 0px
+    margin: 0px;
+    background-color:var(--primary-color);
 }
 
 hr {
@@ -103,12 +104,14 @@ hr {
     flex-wrap:wrap;
 }
 .hero-img{
-    height:50%;
+    height:10px;
 }
 .hero .hero-image {
     flex:50%;
 }
-
+.hero-heading{
+    padding-left:3px;
+}
 .hero .hero-heading {
     flex:50%;
 }
