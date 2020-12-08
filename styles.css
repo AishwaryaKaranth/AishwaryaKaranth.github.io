@@ -163,7 +163,7 @@ background: linear-gradient(to left, #ffcc33, #ffb347); /* W3C, IE 10+/ Edge, Fi
 .blob-blogs{
     color:var(--primary-color);
 }
-.blob-blogs {
+.topic-desc{
     color: var(--primary-color);
     /* background: border-box; */
     /* border-color: #ffcc33; */
@@ -173,7 +173,9 @@ background: linear-gradient(to left, #ffcc33, #ffb347); /* W3C, IE 10+/ Edge, Fi
     /* border-bottom-left-radius: 0.5rem; */
     border-radius: 0.5rem;
 }
-
+.container h1{
+    color:var(--yellow);
+}
 .footer {
     background-color: var(--primary-color);
     padding: 4rem 1rem;
