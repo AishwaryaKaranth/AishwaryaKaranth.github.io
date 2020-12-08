@@ -132,7 +132,7 @@ hr {
 
 
 
-/* .footer {
+.footer {
     background-color: var(--primary-color);
     padding: 4rem 1rem;
     text-align: center;
@@ -153,12 +153,12 @@ hr {
     padding-inline-start: 0px;
 } */
 
-/** projects **/
-/* .showcase-list {
+/* * projects */
+.showcase-list {
     padding: 2rem;
-} */
+}
 
 /** blogs **/
-/* .showcase-blog {
+.showcase-blog {
     padding-bottom: 6rem;
-} */
+} 
