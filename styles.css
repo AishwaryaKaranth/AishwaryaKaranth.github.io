@@ -100,20 +100,15 @@ hr {
 .hero {
     padding: 2rem;
     padding-top: 5rem;
-    display:flex;
-    flex-wrap:wrap;
+    display:block;
 }
-.hero-img{
-    height:10px;
-}
+
 .hero .hero-image {
-    flex:50%;
+    max-width:80%;
 }
-.hero-heading{
-    padding-left:3px;
-}
+
 .hero .hero-heading {
-    flex:50%;
+    text-align:center;
 }
 
 .hero .hero-heading .heading-inverted {
