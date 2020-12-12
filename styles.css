@@ -280,3 +280,6 @@ section{
   small{
       font-style:bold;
   }
+  a{
+      color:#ffcc33;
+  }
