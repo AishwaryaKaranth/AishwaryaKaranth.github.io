@@ -22,13 +22,13 @@ hr {
     z-index:-5;
     margin-left:-20rem;
 }
-/** spaces **/
+
 
 .margin-md {
     margin: 2rem;
 }
 
-/** container **/
+
 .container {
     padding: 0rem 1rem;
 }
@@ -63,10 +63,11 @@ hr {
 .link-secondary {
     color: var(--yellow);
     border-radius: 0.5rem;
-    border: 1px solid var(--primary-color);
+    border: 1px solid var(--yellow);
     display: block;
     max-width: 140px;
     margin: 1rem 1rem 1rem 0rem;
+    text-align:center;
 }
 
 .list-non-bullet {
@@ -137,7 +138,7 @@ header{
     text-align: right;
     flex: 40%;
     padding: 1px;
-    font-size: 6.5vw;
+    font-size: 7vw;
     margin-right: 1rem;
     background: #00b4db;
     background: -webkit-linear-gradient(to left, #ffcc33, #ffb347);
@@ -148,9 +149,6 @@ header{
     text-shadow: 3px 1px #ffcc33;
 }
 
-.hero .hero-heading .heading-inverted {
-    color: var(--primary-color);
-}
 
 .section {
     padding: 2rem;
