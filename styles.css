@@ -76,9 +76,11 @@ hr {
 
 .list-item-inline {
     display: inline;
-    padding: 0rem 0.5rem;
-    border-style:hidden;
-    border-color:#ffcc33;
+    padding: 0rem 0.1rem;
+    border-style: hidden;
+    /* border-color: #ffcc33; */
+    font-size: 1.5rem;
+    margin-left: -1rem;
 }
 hr{
     color:#ffcc33;
