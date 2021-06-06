@@ -134,7 +134,7 @@ header{
     background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-    font-size:6vw;
+    font-size:8vw;
 }
 
 
@@ -156,7 +156,7 @@ section{
     color: var(--primary-color);
     margin: auto;
     max-width: 600px;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .blob-blogs{
